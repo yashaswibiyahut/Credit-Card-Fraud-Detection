@@ -16,15 +16,15 @@ In order to do so I have done--
     
 At the end, calculate the acuracy rate and error rate of all three classification.
 
-Decision Tree Accuracy : 
+Decision Tree Accuracy :   
     Accuracy_Decison : 99.87361325656508 -- (A better approach to follow) 
     Error_rate : 0.12638674343491083  
     
-Random Forest Accuracy : 
+Random Forest Accuracy :   
     Accuracy_Decison : 99.92978514253616 
     Error_rate : 0.07021485746383935  
     
-K-nearest neighbors (KNN) Accuracy :
+K-nearest neighbors (KNN) Accuracy :  
     Accuracy_Decison : 99.9578710855217 
     Error_rate : 0.04212891447830361  
     
